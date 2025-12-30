@@ -19,3 +19,6 @@ In biochemical research, manual data processing of microplate reader outputs is 
 ## 📂 Project Structure
 - `plots.R`: The core script for data processing and visualization.
 - `README.md`: Project documentation.
+
+## Acknowledgements
+This script was developed with the assistance of AI tools for code optimization and documentation.
